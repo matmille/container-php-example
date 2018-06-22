@@ -14,7 +14,7 @@ $GLOBALS['mapserver'] = $mapserver;
 <FORM name="mapserv" method="GET" target=map action="http://<?php echo $mapserver;?>/cgi-bin/mapserv">
 <TABLE border=0 cellpadding=0 style='border-collapse: collapse;'>
 <TR>
-<TD colspan=2 bgcolor=#BF4F51><FONT SIZE=24 COLOR="#FFFFFF">United States - State Locator</FONT></TD>
+<TD colspan=2 bgcolor=#BF4F51><FONT SIZE=24 COLOR="#FFFFFF">United States - Borders</FONT></TD>
 </TR>
 <TR>
 <TD>
